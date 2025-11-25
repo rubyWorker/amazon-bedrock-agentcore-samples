@@ -194,3 +194,4 @@ Now you have full observability of your Bedrock AgentCore Agents in Dynatrace!
 You can view detailed traces, metrics, and logs for your Travel Agent:
 
 ![Dynatrace Tracing](./dynatrace.png)
+![Dynatrace Tracing 1](./dynatrace-1.png)
