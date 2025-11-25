@@ -1,4 +1,4 @@
-# Travel Agent with Amazon Bedrock and Dynatrace Observability
+# Travel Agent Deployed on Amazon Bedrock AgentCore with Dynatrace Observability
 
 This example demonstrates a Travel Agent built on top of [Bedrock AgentCore](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/what-is-bedrock-agentcore.html) with full observability through Dynatrace.
 
