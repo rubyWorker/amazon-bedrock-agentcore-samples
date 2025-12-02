@@ -13,6 +13,6 @@ dependencies = [
     "strands-agents",
     "opentelemetry-sdk",
     "opentelemetry-exporter-otlp-proto-http",
-    "duckduckgo-search",
+    "ddgs",
     "requests",
 ]

@@ -116,6 +116,7 @@ After that, you can create an Access Token:
     * **Ingest OpenTelemetry traces** (`openTelemetryTrace.ingest`)
     * **Ingest logs** (`logs.ingest`)
     * **Read metrics** (`metrics.read`)
+    * **Ingest metrics** (`metrics.ingest`)
 6. Select **Generate token**.
 7. Copy the generated token to the clipboard. Store the token in a password manager for future use.
 

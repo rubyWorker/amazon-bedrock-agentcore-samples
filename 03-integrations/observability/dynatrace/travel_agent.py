@@ -3,7 +3,7 @@ import requests
 from strands import Agent, tool
 from strands.models import BedrockModel
 from bedrock_agentcore.runtime import BedrockAgentCoreApp
-from duckduckgo_search import DDGS
+from ddgs import DDGS
 
 app = BedrockAgentCoreApp()
 
